@@ -80,6 +80,4 @@ Data Loading → EDA → Preprocessing → Model Building → Evaluation → Hyp
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is for educational purposes only. The model is **not intended for actual clinical or medical diagnosis** and should not be used as a substitute for professional medical evaluation.
